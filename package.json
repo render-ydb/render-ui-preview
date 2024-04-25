@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@x.render/render-ui": "^1.8.0",
+    "@x.render/render-ui": "^1.10.0",
     "next": "14.2.2",
     "next-transpile-modules": "^10.0.1",
     "react": "^18",
